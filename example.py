@@ -1,0 +1,53 @@
+data = {
+    "Document Metadata": {
+        "Lang code": "PL",
+        "Document Series": "L",
+        "Doucument source": "Dziennik Urzędowy Unii Europejskiej",
+        "Document Number": "2024/601",
+        "Date": "16.2.2024",
+        "Title": "ROZPORZĄDZENIE WYKONAWCZE KOMISJI (UE) 2024/601",
+        "Subtitle": "z dnia 14 grudnia 2023 r. ustanawiające zasady stosowania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 w odniesieniu do certyfikacji chmielu i produktów chmielowych oraz powiązanych kontroli",
+        "Preamble": [
+            "KOMISJA EUROPEJSKA,",
+            "uwzględniając Traktat o funkcjonowaniu Unii Europejskiej,",
+            "uwzględniając rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiające wspólną organizację rynków produktów rolnych oraz uchylające rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (1), w szczególności jego art. 90a ust. 6 akapit pierwszy lit. c) oraz art. 91 akapit pierwszy lit. b), d) i g),",
+            "a także mając na uwadze, co następuje:",
+        ],
+    },
+    "Sections and Articles": [
+        {
+            "Section Number": None,
+            "Section Title": None,
+            "Article Number": None,
+            "Article Title": None,
+            "Point Number": 1,
+            "Point Title": None,
+            "Subpoint Number": None,
+            "Subpoint Title": None,
+            "Article Content": "Rozporządzeniem (UE) nr 1308/2013 uchylono i zastąpiono rozporządzenie Rady (WE) nr 1234/2007 ",
+        },
+        {
+            "Section Number": "1",
+            "Section Title": "PRZEPISY WSTĘPNE",
+            "Article Number": "1",
+            "Article Title": "Definicje",
+            "Point Number": 1,
+            "Point Title": None,
+            "Subpoint Number": None,
+            "Subpoint Title": None,
+            "Article Content": "Do niniejszego rozporządzenia mają zastosowanie definicje określone w art. 3 rozporządzenia delegowanego (UE) 2024/602.",
+        },
+        {
+            "Section Number": "2",
+            "Section Title": "CERTYFIKACJA CHMIELU I PRODUKTÓW CHMIELOWYCH",
+            "Article Number": "2",
+            "Article Title": "Procedura certyfikacji",
+            "Point Number": 1,
+            "Point Title": None,
+            "Subpoint Number": None,
+            "Subpoint Title": None,
+            "Article Content": "1. Procedura certyfikacji szyszek chmielowych oznaczonych kodem CN 1210 10 00 i objętych częścią VI załącznika I do rozporządzenia (UE) nr 1308/2013 oraz produktów chmielowych oznaczonych kodami CN 1210 20 i 1302 13 00 i objętych częścią VI załącznika I do tego rozporządzenia zgodnie z art. 77 tego rozporządzenia jest przeprowadzana przed wprowadzeniem produktu do obrotu i obejmuje analizę danej partii...",
+        },
+        # Add more sections and articles as needed
+    ],
+}
